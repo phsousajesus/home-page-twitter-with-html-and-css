@@ -1,0 +1,7 @@
+*{
+    font-family: 'Recursive', sans-serif;
+}
+
+*,*::after, *::before{
+    box-sizing: border-box;
+}
